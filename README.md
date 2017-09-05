@@ -1,1 +1,2 @@
 # stat297group
+Hi
